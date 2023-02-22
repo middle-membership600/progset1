@@ -1,0 +1,144 @@
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
+number of points: 0 dimensions: 5
+average weight: 0
+time: 0
