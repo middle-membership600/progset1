@@ -256,10 +256,10 @@ int main(int argc, char *argv[])
     printf("Not enough arguments\n");
     exit(1);
   } // set numpoints, numtrials, dimension to the CLI arguments
-  int flag = atoi(argv[0]);
-  int numpoints = atoi(argv[1]);
-  int numtrials = atoi(argv[2]);
-  int dimension = atoi(argv[3]);
+  int flag = atoi(argv[1]);
+  int numpoints = atoi(argv[2]);
+  int numtrials = atoi(argv[3]);
+  int dimension = atoi(argv[4]);
   float average;
   float data[numtrials];
   time_t start = time(0);
