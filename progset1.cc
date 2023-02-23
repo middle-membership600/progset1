@@ -251,7 +251,7 @@ struct MST_info prims_MST(int num_vertices, vector<vector<Node> > graph)
 
 int main(int argc, char *argv[])
 {
-  if (argc < 4)
+  if (argc < 5)
   {
     printf("Not enough arguments\n");
     exit(1);
